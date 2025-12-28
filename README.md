@@ -70,8 +70,5 @@ Example Captcha , an open source behavior captcha system,its main Features are a
 
 # 7. Connect Us
 
-<img src="https://foruda.gitee.com/images/1724817510954363329/305a6044_7492051.jpeg" width = "200" height = auto />
-
-<br>
  ### Have a try & enjoy it !!!  ☺
 
