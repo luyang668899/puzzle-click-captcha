@@ -10,13 +10,13 @@
         <version>2.7.14</version>
     </parent>
 
-    <groupId>com.anji-plus</groupId>
+    <groupId>com.example.captcha</groupId>
     <artifactId>captcha-spring-boot-starter</artifactId>
-    <version>1.4.0</version>
+    <version>1.0.0-SNAPSHOT</version>
 
     <name>captcha-spring-boot-starter</name>
-    <description>anji-plus captcha captcha-spring-boot-starter</description>
-    <url>https://github.com/anji-plus/captcha</url>
+    <description>Example Captcha Spring Boot Starter</description>
+    <url>https://github.com/example/captcha</url>
     <packaging>jar</packaging>
 
     <properties>
@@ -27,9 +27,9 @@
     <!-- Add typical dependencies for a web application -->
     <dependencies>
         <dependency>
-            <groupId>com.anji-plus</groupId>
-            <artifactId>captcha</artifactId>
-            <version>1.4.0</version>
+            <groupId>com.example.captcha</groupId>
+            <artifactId>captcha-core</artifactId>
+            <version>1.0.0-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>

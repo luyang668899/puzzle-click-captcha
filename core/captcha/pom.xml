@@ -4,13 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.anji-plus</groupId>
-    <artifactId>captcha</artifactId>
-    <version>1.4.0</version>
+    <groupId>com.example.captcha</groupId>
+    <artifactId>captcha-core</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
-    <description>anji-plus captcha.jar</description>
-    <url>https://github.com/anji-plus/captcha</url>
+    <description>Example Captcha Core</description>
+    <url>https://github.com/example/captcha</url>
     <packaging>jar</packaging>
 
     <properties>

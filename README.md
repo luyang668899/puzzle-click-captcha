@@ -1,23 +1,18 @@
 
-[AjPlus Captcha Official Website](https://captcha.anji-plus.com/)
+[Example Captcha](https://github.com/example/captcha/)
 ============
-[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)[![Total Lines](https://tokei.rs/b1/github/anji-plus/captcha?category=lines)](https://github.com/anji-plus/captcha)
+[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-> AjPlus Captcha 
+> Example Captcha - 行为验证码系统
 
-[![Stargazers over time](https://starchart.cc/anji-plus/captcha.svg)](https://starchart.cc/anji-plus/captcha)
-[![Stargazers over time](https://whnb.wang/img/anji-plus/captcha?e=604800)](https://whnb.wang/anji-plus/captcha?e=604800)
-          
 [![EN doc](https://img.shields.io/badge/document-English-blue.svg)](README.md)[![CN doc](https://img.shields.io/badge/文档-中文版-blue.svg)](README_CN.md)
 
 # 1. Online Demo
-### &emsp; 1.1 [Have a try](https://ajcaptcha.beliefteam.cn/captcha-doc/ "链接")
-### &emsp; 1.2 [Document](https://ajcaptcha.beliefteam.cn/captcha-doc/ "doc")
-### &emsp; 1.3 Wechat/H5 demo（based on uni-app)
- &emsp;&emsp; see also [gitee]( https://gitee.com/anji-plus/captcha "码云")
+### &emsp; 1.1 Local Demo
+ &emsp;&emsp; Run the project locally to see the demo.
 
- ![Wechat](https://captcha.anji-plus.com/static/8cm.jpg  "")&emsp;&emsp;![h5](https://images.gitee.com/uploads/images/2020/0429/174246_c33e3fa3_1728982.png "h5.png")
- &emsp;&emsp;&emsp;&emsp;Wechat Demo&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+### &emsp; 1.2 Wechat/H5 demo（based on uni-app)
+ &emsp;&emsp; See the code in the view directory.
 
 
 # 2. Design Details
@@ -41,7 +36,7 @@
 ### &emsp; 2.3 Main Features 
 CAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart. CAPTCHA determines whether the user is real or a spam robot. CAPTCHAs stretch or manipulate letters and numbers, and rely on human ability to determine which symbols they are.
  
-Ajplus Captcha , an open source toolset for users,its main Features are as follows:
+Example Captcha , an open source behavior captcha system,its main Features are as follows:
 - Easy to integrate ui Component in your apps,support varies frontend UI,
 - Support Integrate with Android、iOS、Futter、Uni-App、ReactNative、Vue、Angular、Html、Php
 - No dependencies lib in core source,Easy to include in your backend service

@@ -1,8 +1,7 @@
 /*
- *Copyright © 2018 anji-plus
- *安吉加加信息技术有限公司
- *http://www.anji-plus.com
+ *Copyright © 2025 Example Captcha
  *All rights reserved.
+ *Licensed under the Apache License, Version 2.0
  */
 package com.anji.captcha.service;
 
